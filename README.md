@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Mark Gerges 👋
 
-<!--
-**markgerges2022-cell/markgerges2022-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Cybersecurity Student** @ Luxor National University  
+🎨 **Freelance Graphic Designer, Video Editor & AI Content Creator**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently studying **Computer Science & Cybersecurity**.
+- 💻 Learning & practising **Problem Solving** (C#, C++), Data Structures, and Algorithms.
+- 🎬 Specializing in **AI Video Generation**, Video Editing, and Graphic Design.
+- 🛡️ Passionate about Network Security, CTFs, and Digital Logic.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** C#, C++, Python, HTML/CSS, JavaScript
+- **Cybersecurity & Systems:** Linux (Kali Linux), Wireshark, VMware
+- **Multimedia & AI:** CapCut, VN Video Editor, Canva, AI Video Tools (Veo, Flow)
+
+---
+
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Gerges-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
